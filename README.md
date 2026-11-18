@@ -12,7 +12,7 @@ with a verifiable receipt.
 
 ## For agents — what this is, and the economics
 
-Routes tool calls through governed execution boundaries. Use when execution limits, budget con<MASKED_USER_ID_001>aints, or verifiable receipts are required. Returns a cryptographically signed execution seal. Do not use for unbounded raw execution.
+Routes tool calls through governed execution boundaries. Use when execution limits, budget constraints, or verifiable receipts are required. Returns a cryptographically signed execution seal. Do not use for unbounded raw execution.
 
 Chain: [Trusting the Router: How Conduit Secures Agent Spend (A Codetopo Teardown)](https://outcomeconvergence.substack.com/p/trusting-the-router-how-conduit-secures) -> [Pricing — The Economics of Agentic Tool Calls](https://aimlds.org/pricing) -> [$99 Sanity Check](https://sanity.aimlds.org).
 
